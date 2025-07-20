@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tanushree Paidichetty!
 
-![](https://komarev.com/ghpvc/?tpaidich=tpaidich&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=tpaidich&color=yellow&style=for-the-badge)
 
 <h3>When I code, I rely on</h3>
 <p>
