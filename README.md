@@ -43,6 +43,7 @@ I'm a dual-degree Computer Science (Data Science) and Applied Statistics student
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="Alteryx" src="https://img.shields.io/badge/-Alteryx-0076BD?style=flat-square&logo=dataiku&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-workflow%20automation-orange" />
 </p>
 
 I'm always looking for opportunities to learn, build, and contribute to projects at the intersection of AI, data science, and impactful problem-solving. I’m excited to keep pushing the boundaries of what I can create. Thanks for visiting my profile, and feel free to connect or reach out!
