@@ -12,6 +12,7 @@ I'm a dual-degree Computer Science (Data Science) and Applied Statistics student
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="SAS" src="https://img.shields.io/badge/-SAS-0266C8?style=flat-square&logo=sas&logoColor=white" />
+  <img al="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpaidich&layout=compact) -->
