@@ -14,6 +14,8 @@ I'm a dual-degree Computer Science (Data Science) and Applied Statistics student
   <img alt="SAS" src="https://img.shields.io/badge/-SAS-0266C8?style=flat-square&logo=sas&logoColor=white" />
 </p>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpaidich&layout=compact) -->
+
 <h3>I love building with</h3>
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
